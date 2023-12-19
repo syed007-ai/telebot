@@ -10,3 +10,11 @@
 '''bash
 conda create -n telebot python -y 
 '''
+
+'''bash
+conda activate telebot
+'''
+
+'''bash
+pip install -r requirements.txt
+'''
